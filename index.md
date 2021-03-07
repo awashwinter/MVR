@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Пользовательское соглашение
 
-You can use the [editor on GitHub](https://github.com/awashwinter/MVR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Термины:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Awashwinter - разработчик приложения (далее Разработчик)
 
-### Markdown
+2. Приложение - используемое Пользователем приложение
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Пользователь - лицо, под которое попадает действие данного соглашения (пользователь Приложения)
 
-```markdown
-Syntax highlighted code block
+4. Сторонний сайт - источник содержимого Приложения (далее Сайт)
 
-# Header 1
-## Header 2
-### Header 3
+## Общие положения
 
-- Bulleted
-- List
+1. Пользователь, продолжая использовать Приложение, соглашается с ниже изложенными положениями данного Пользовательского соглашения.
 
-1. Numbered
-2. List
+2. Весь контент, отображаемый в приложении напрямую берётся с Сайта (на основе пользовательского соглашения Сайта)
 
-**Bold** and _Italic_ and `Code` text
+3. Пользователь понимает, и согласен с тем, что Приложение имеет дело с материалами и данными Сайта, созданными третьими лицами и размещенными ими в сети Интернет на своих компьютерах и (или) серверах.
 
-[Link](url) and ![Image](src)
-```
+## Защита авторских прав
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Разработчик соблюдает Закон о защите авторских прав в цифровую эпоху (DMCA) и другие действующие законы об авторских правах и обязуется удалять неправомерно размещенный контент, получив соответствующее уведомление о нарушении прав.
 
-### Jekyll Themes
+Уведомление о нарушении авторских прав
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awashwinter/MVR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Если Пользователь считает, что контент в Приложении нарушает авторские права, Пользователю необходимо написать на почту почту Разработчика с соответствующим заявлением. Разработчик обязуется заблокировать указаный контент после обработки заявления.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+С более подробной информацией о правах и обязанностях вы можете ознакомиться на Сайте
